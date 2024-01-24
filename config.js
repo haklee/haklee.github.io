@@ -53,8 +53,8 @@ const config = {
     title: 'Hak Lee',
     description: 'Hak Lee - portfolio',
     ogImage: null,
-    docsLocation: 'https://github.com/haklee/haklee.github.io/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    docsLocation: 'https://github.com/haklee/haklee.github.io/tree/main/content',
+    //favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
