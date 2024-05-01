@@ -1,9 +1,19 @@
 site_name: Hak Lee
-theme: material
+theme:
+  name: material
+  font:
+    text: Noto Sans Korean
+    code: Nanum Gothic Coding
+  palette:
+    primary: black
+  logo: assets/transparent-40x40.png
+  favicon: assets/transparent-40x40.png
+  features:
+    - navigation.tabs
 
-# nav:
-#   - home: index.md
-#   - about: about.md
+nav:
+  - home: index.md
+  - about: about.md
 
 plugins:
   - search
