@@ -1,0 +1,26 @@
+site_name: Hak Lee
+theme: material
+
+# nav:
+#   - home: index.md
+#   - about: about.md
+
+plugins:
+  - search
+  - awesome-pages
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: ko
+          default: true
+          name: 한국어
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+markdown_extensions:
+  - attr_list
