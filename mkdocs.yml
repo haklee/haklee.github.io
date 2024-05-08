@@ -3,7 +3,7 @@ theme:
   name: material
   font:
     text: Noto Sans Korean
-    code: Nanum Gothic Coding
+    code: Noto Sans Korean
   palette:
     primary: black
   logo: assets/transparent-40x40.png
@@ -34,3 +34,11 @@ plugins:
 
 markdown_extensions:
   - attr_list
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: Copyright &copy; 2024 - <script>document.write(new Date().getFullYear());</script> Hak Lee
