@@ -10,14 +10,49 @@ theme:
   favicon: assets/transparent-40x40.png
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
 
 nav:
   - home: index.md
+  - 작업들:
+    - 도구와 이야기들:
+      - works/tools-and-tales/index.md
+      - 형태 실험들:
+        - works/tools-and-tales/form-experiments/index.md
+        - ... | flat | works/tools-and-tales/form-experiments/**/*.md
+      - 자료구조와 알고리즘:
+        - works/tools-and-tales/data-structures-and-algorithms/index.md
+        - ... | flat | works/tools-and-tales/data-structures-and-algorithms/**/*.md
+      - 도구들:
+        - works/tools-and-tales/tools/index.md
+        - ... | flat | works/tools-and-tales/tools/**/*.md
+      - 생각들:
+        - works/tools-and-tales/thoughts/index.md
+        - ... | flat | works/tools-and-tales/thoughts/**/*.md
+    - 도시, 조각들:
+      - works/city-fragments/index.md
+      - 조각들:
+        - works/city-fragments/fragments/index.md
+        - ... | flat | works/city-fragments/fragments/**/*.md
+      - 공간들:
+        - works/city-fragments/spaces/index.md
+        - ... | flat | works/city-fragments/spaces/**/*.md
+      - 영감들:
+        - works/city-fragments/inspirations/index.md
+        - ... | flat | works/city-fragments/inspirations/**/*.md
+      - 생각들:
+        - works/city-fragments/thoughts/index.md
+        - ... | flat | works/city-fragments/thoughts/**/*.md
   - about: about.md
+
+not_in_nav: |
+  works/tools-and-tales/data-structures-and-algorithms/computational-geometry/problems/*.md
 
 plugins:
   - search
-  - awesome-pages
+  - awesome-pages:
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
@@ -31,9 +66,30 @@ plugins:
         - locale: en
           name: English
           build: true
+          nav_translations:
+            작업들: works
+            도구와 이야기들: tools and tales
+            형태 실험들: form experiments
+            자료구조와 알고리즘: data structures and algorithms
+            도구들: tools
+            생각들: thoughts
+            도시, 조각들: city, fragments
+            조각들: fragments
+            공간들: spaces
+            영감들: inspirations
+
 
 markdown_extensions:
   - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   generator: false
@@ -42,3 +98,6 @@ extra_css:
   - stylesheets/extra.css
 
 copyright: Copyright &copy; 2024 - <script>document.write(new Date().getFullYear());</script> Hak Lee
+
+hooks:
+  - hooks.py

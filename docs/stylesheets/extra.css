@@ -2,3 +2,8 @@
     font-size: .7rem;
     line-height: 1.7;
 }
+
+/* ref: https://github.com/squidfunk/mkdocs-material/issues/3018 */
+.md-typeset .grid {
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr))
+}
