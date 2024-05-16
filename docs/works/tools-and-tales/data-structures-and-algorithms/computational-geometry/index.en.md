@@ -2,6 +2,14 @@
 title: "computational geometry"
 ---
 
+intro
+--
+Sometimes, you can get insights just from the keywords associated with a problem. Here, I intend to list the problems I have encountered while studying computational geometry. The sources of the problems are described as:  
+
+* __handcrafted by myself__: No special explanation is provided.
+* __famous theorem or problem__: Formatted like *(famous theorem name)*.
+* __found from a specific source__: References are provided within the explanation.
+
 Boundless-X quiz
 --
 <div class="grid cards" markdown>
