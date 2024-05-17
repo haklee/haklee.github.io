@@ -13,7 +13,7 @@ As you can see, the sponge has a lot of holes, and there is no simple pattern th
 
 Fortunately, using Grasshopper to draw the Voronoi diagram wasn't too difficult, and I was able to successfully visualize the sponge structure and bring it to the class. It was the first time I realized that by skillfully using computers, I could instantly create forms that I couldn't even imagine with just my hands and brain.  
 
-After finishing the assignment, I reopened the Grasshopper window, and noticed the countless components that I never dared to touch. Questions arose - what do other components do? If I learn to use the other components, what diverse forms could I generate with it? These inquiries sparked an exploration that continues to this day.
+After finishing the semester, I reopened the Grasshopper window and noticed there were countless components that I never dared to touch. Questions arose - what do other components do? If I learn to use the other components, what diverse forms could I generate with it? These inquiries sparked an exploration that continues to this day.
 &NewLine;  
 &NewLine;    
 &NewLine;  
