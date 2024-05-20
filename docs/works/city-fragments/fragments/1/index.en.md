@@ -5,7 +5,7 @@ title: "1"
 intro
 --
 
-*Excerpted from notes written in 2019-08-10*
+*Excerpted from notes written on 2019-08-10*
 
 City can no longer be described solely by buildings and streets, stories passed from mouth to mouth among its members, tangible, visible, audible things that physically exist. Instead, the city is full of shops which suddenly appear and disappear, people suddenly gathering at an unknown events, and anonymous travelers enjoying the planned trips to places where no acquaintance lives. The physical city transforms into formless information, and people gather where information accumulates.
 
