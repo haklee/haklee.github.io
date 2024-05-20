@@ -11,8 +11,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
     - navigation.indexes
+    - navigation.sections
 
 nav:
   - home: index.md
