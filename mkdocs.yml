@@ -6,7 +6,7 @@ theme:
     code: Noto Sans Korean
   palette:
     primary: black
-  logo: assets/transparent-40x40.png
+  logo: assets/title-40x40.png
   favicon: assets/transparent-40x40.png
   features:
     - navigation.tabs
@@ -50,6 +50,7 @@ nav:
 not_in_nav: |
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/problems/*.md
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/boundlessx-quiz/*.md
+  works/tools-and-tales/form-experiments/**/*.md
 
 plugins:
   - search

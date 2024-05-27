@@ -10,8 +10,8 @@
 
 /* md-button related */
 .md-typeset .md-button {
-    border: 0rem solid;
-    /* border-radius: .1rem; */
+    border: 1px solid;
+    /* border-radius: .3rem; */
     color: var(--md-primary-fg-color);
     cursor: pointer;
     display: inline-block;

@@ -1,5 +1,5 @@
 ---
-title: "home"
+title: "Home"
 ---
 
 Just after entering university in the spring of 2012, I received my first architectural design class to choose and describe an object. After a brief deliberation, I chose the sponge soap dish in my bathroom.  

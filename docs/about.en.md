@@ -1,7 +1,5 @@
 ---
-title: "about"
-metaTitle: "about"
-metaDescription: "Hak Lee's about page"
+title: "About"
 ---
 
 # Hak Lee

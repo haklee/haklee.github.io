@@ -1,8 +1,8 @@
 ---
-title: "computational geometry"
+title: "Computational Geometry"
 ---
 
-intro
+Intro
 --
 Sometimes, you can get insights just from the keywords associated with a problem. Here, I intend to list the problems I have encountered while studying computational geometry. The sources of the problems are described as:  
 
