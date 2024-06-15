@@ -51,6 +51,7 @@ not_in_nav: |
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/problems/*.md
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/boundlessx-quiz/*.md
   works/tools-and-tales/form-experiments/**/*.md
+  works/tools-and-tales/tools/dynamic-block/**/*.md
 
 plugins:
   - search

@@ -8,18 +8,14 @@ The more proficient I became with the tools, the more I could make. Some tools c
 
 In this topic, I will briefly explain the various tools I have encountered so far, discuss what I have made through these tools, and share the thoughts I had while working with them.
 
-[__form experiments__](./form-experiments/index.md)
---
+## [__form experiments__](./form-experiments/index.md)
 The best way to become familiar with tools is to create something directly using the tools. In this section, I introduce forms created by tools-mainly using grasshopper. Some forms could exist only within the screen, while others were designed to be fabricated using physical materials.
 
-[__data structures and algorithms__](./data-structures-and-algorithms/index.md)
---
+## [__data structures and algorithms__](./data-structures-and-algorithms/index.md)
 If tools are devices used to create something, then from the perspective of tools, data structures and algorithms can be considered the language that forms the basis of this 'something'. In this section, I discuss how to define the architectural spaces and forms through programming languages, what operations are possible, and what theoretical foundations these operations are based on.
 
-[__tools__](./tools/index.md)
---
+## [__tools__](./tools/index.md)
 Some ideas can be implemented more intuitively through specific tools. In this section I will cover what can be done using specific tools.
 
-[__thoughts__](./thoughts/index.md)
---
+## [__thoughts__](./thoughts/index.md)
 In this section, I freely record thoughts about tools.

@@ -6,7 +6,7 @@ title: "Sponge"
 <br>
 
 >date: 2012, 1st semester  
->class: (Architecture major) Architectural Design Studio 1-1  
+>course: (Architecture major) Architectural Design Studio 1-1  
 >interval: half-semester (mid term)  
 
 ## Sketch
