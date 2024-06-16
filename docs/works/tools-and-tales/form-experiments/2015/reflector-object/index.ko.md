@@ -29,6 +29,7 @@ title: "반사-사물"
 ![ro-c-2](../../../../../assets/tools-and-tales/form-experiments/2015/reflector-object/reflector_con1.png){width=600}
 ![ro-c-3](../../../../../assets/tools-and-tales/form-experiments/2015/reflector-object/reflector_con1.png){width=600}
 ![ro-c-4](../../../../../assets/tools-and-tales/form-experiments/2015/reflector-object/reflector_con1.png){width=600}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Bg0r89AsCQ?si=v6VUDGi9S1r5Z8KA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Concept - Reflector
 ![ro-cr-1](../../../../../assets/tools-and-tales/form-experiments/2015/reflector-object/reflector_detail1.png){width=300}
@@ -45,6 +46,7 @@ title: "반사-사물"
 
 ### Assembly Order
 ![ro-ao](../../../../../assets/tools-and-tales/form-experiments/2015/reflector-object/reflector_perspective.jpg){width=600}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4iMhneGhHBc?si=_bOeZI7vdSJxxNqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Profile(1:1 scale)
 ![ro-p-1](../../../../../assets/tools-and-tales/form-experiments/2015/reflector-object/reflector_profile-1.jpg){width=600}
