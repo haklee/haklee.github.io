@@ -15,7 +15,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 |    4    | Skilled enough to choose it as a primary tool for projects. Clearly know what I don't know about it. |
 |    5    | Use the tool's language as a part of my body/being. |
 
-## 언어
+## Language
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | python3    | 4      | I used it as the main language for developing simple servers, task queues, packages for geometric operations, or solving various algorithmic problems.|
@@ -27,8 +27,8 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Dart       | 2      | I have briefly used it while studying application development. |
 | R          | 1      | I briefly worked with it while participating in a study group invited within SNU Urban Form and Conservation Lab. |
 
-## 웹 서비스 관련
-### 프레임워크
+## Web Service - related
+### Framework
 | Tool    | Proficiency | Description |
 | :------ | :----: | :--- |
 | NestJS  | 4      | I started with server development using Express, but later settled on NestJS. I have utilized features such as socket communication, logging, guards, type checking, simple testing, Swagger integration, and various ORM integrations. Additionally, I have implemented functionalities like login, cloud storage integration, and task queue integration. |
@@ -48,25 +48,25 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Celery | 3      | I started using Celery to integrate task queues with functionalities implemented in Python |
 | ZeroMQ | 2      | I first encountered ZeroMQ when creating internal tools at Ngine Studios, and later briefly used it to implement a task queue for a server built with Node.js. |
 
-### 모니터링
+### Monitoring
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | Prometheus | 2      | I have used it for service monitoring. |
 | Grafana    | 2      | I have used it for service monitoring. |
 
-### 테스팅
+### Testing
 | Tool     | Proficiency | Description |
 | :------- | :----: | :--- |
 | Swagger  | 2      | I have mainly used Swagger in conjunction with NestJS for manually testing various API functionalities. |
 | Postman  | 2      | I have used Postman for manually testing API functionalities or when I needed to perform a series of consecutive API calls. |
 | Insomnia | 1      | I have used Insomnia before using Postman for manually testing API functionalities. |
 
-## 버전 관리
+## Version Control
 | Tool | Proficiency | Description |
 | :--- | :----: | :--- |
 | git  | 4      | Through various trials and errors, I learned how to use Git. I have acquired an understanding to a degree where I can create and establish a modified gitflow strategy tailored to the development team's situation. |
 
-## 프로젝트 관리
+## Project Management
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | Jira       | 3      | I first utilized it during the game maintenance process at Ngine Studios, and I have an understanding level where I can create and experimentally use a ticket management strategy tailored to the development team's situation. |
@@ -75,7 +75,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Notion     | 2      | I once used Notion for organizing personal materials and creating landing pages for small toy projects, but I am not using it currently. |
 | Slack      | 3      | In the various teams I have been a part of so far, I have commonly used it. I have an understanding level where I can create a Slack bot to log necessary content and implement simple voting functions. |
 
-## 데이터베이스
+## Database
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | MySQL      | 4      | I have performed tasks ranging from basic database design for service operations to setting spatial indexes, optimizing slow queries, writing recursive queries using CTEs, creating triggers and procedures, as well as database dumps and migrations. |
@@ -83,7 +83,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | SQLite     | 2      | There have been a few instances where I used SQLite when developing apps that required a local database. |
 | Redis      | 2      | I have utilized Redis when dealing with task queues, and there have been a few instances where I used Redis in situations where data did not necessarily need to be managed with a relational database. |
 
-## 배포
+## Deployment
 | Tool           | Proficiency | Description |
 | :------------- | :----: | :--- |
 | pm2            | 3      | I frequently utilized it for zero-downtime server deployment and log inspection. |
