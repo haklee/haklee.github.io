@@ -110,6 +110,11 @@ title: "Form Experiments"
     ![gh-2](../../../assets/tools-and-tales/form-experiments/2015/gh-exp/gh_2015_rotate_bubble.gif){width=200}
     ![gh-3](../../../assets/tools-and-tales/form-experiments/2015/gh-exp/gh_2015_surface_4.png){width=200}
 
+-   [__Processing Experiments (2015)__](./2015/pc-exp/index.md)
+
+    ---
+    ![pc-1](../../../assets/tools-and-tales/form-experiments/2015/pc-exp/pca-img.png){width=200}
+
 </div>
 
 !!! danger "UNDER CONSTRUCTION"
