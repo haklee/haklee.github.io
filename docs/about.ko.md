@@ -4,7 +4,7 @@ title: "About"
 
 # 이학
 
-Computational architectural design 분야를 연구하며 서비스를 개발하고 있습니다.
+Computational architectural design^[__1)__](./works/tools-and-tales/thoughts/2024/0623.md)^ 분야를 연구하며 서비스를 개발하고 있습니다.
 
 ## Education
 
@@ -26,3 +26,7 @@ Computational architectural design 분야를 연구하며 서비스를 개발하
 ## Me!
 
 ![me](./assets/about/about-self.jpg){width=500}
+
+-----
+
+1) [__컴퓨테이셔널 디자이너에 대하여 (06. 23.)__](./works/tools-and-tales/thoughts/2024/0623.md)  

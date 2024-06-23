@@ -4,7 +4,7 @@ title: "About"
 
 # Hak Lee
 
-Researching and creating services in the field of computational architectural design.
+Researching and creating services in the field of computational architectural design^[__1)__](./works/tools-and-tales/thoughts/2024/0623.md)^.
 
 ## Education
 - **Seoul Science High School for Gifted Students**, 2009 Mar – 2012 Feb
@@ -25,3 +25,7 @@ Researching and creating services in the field of computational architectural de
 ## Me!
 
 ![me](./assets/about/about-self.jpg){width=500}
+
+-----
+
+1) [__About 'Computational Designer' (06. 23.)__](./works/tools-and-tales/thoughts/2024/0623.md)  

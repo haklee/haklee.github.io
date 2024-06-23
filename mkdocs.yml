@@ -52,6 +52,7 @@ not_in_nav: |
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/boundlessx-quiz/*.md
   works/tools-and-tales/form-experiments/**/*.md
   works/tools-and-tales/tools/dynamic-block/**/*.md
+  works/tools-and-tales/thoughts/**/*.md
 
 plugins:
   - search
@@ -95,6 +96,11 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 extra:
   generator: false
