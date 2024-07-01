@@ -1,7 +1,7 @@
 -----
 source: [https://raw.githubusercontent.com/adr/madr/develop/template/adr-template.md](https://raw.githubusercontent.com/adr/madr/develop/template/adr-template.md)  
 reference: [https://adr.github.io/madr/#full-template](https://adr.github.io/madr/#full-template)  
-license: [MIT](./LICENSE.MIT)  
+license: [MIT](./LICENSE.MIT.md)
 -----
 ```
 ---
