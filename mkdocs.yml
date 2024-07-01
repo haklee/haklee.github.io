@@ -46,6 +46,9 @@ nav:
         - works/city-fragments/thoughts/index.md
         - ... | flat | works/city-fragments/thoughts/**/*.md
   - about: about.md
+  - ADR: 
+    - adr/index.md
+    - ... | flat | adr/docs/*.md
 
 not_in_nav: |
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/problems/*.md
