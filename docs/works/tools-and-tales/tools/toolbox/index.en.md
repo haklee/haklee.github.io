@@ -109,6 +109,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | 3ds Max                   | 1      | I have briefly used it while taking media art major courses. |
 | SketchUp                  | 1      | I have briefly used it while taking architecture major courses. |
 | SolidWorks                | 1      | I have briefly used it while taking mechanical engineering major courses. |
+| QGIS                      | 2      | In the first semester of 2017, I first used QGIS to utilize geographic information provided by the public data portal for a design project. In the second semester, I used QGIS integrated with Python to analyze pedestrian data in Undergraduate Independent Study course. After that, I conducted a workshop over several weeks to explain how to use QGIS to undergraduate and graduate students in the Department of Architecture & Architectural Engineering. But it's been a long time since I last used it so I've almost forgotten it now. |
 
 ## 2D
 | Tool              | Proficiency | Description |
