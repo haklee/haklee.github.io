@@ -7,5 +7,6 @@ title: "Thoughts"
 
 -   [__About 'Computational Designer' (06. 23.)__](./2024/0623.md)
 -   [__About ADR(Architecture Decision Record)s (06. 27.)__](./2024/0627.md)
+-   [__AutoCAD functionalities (07. 07.)__](./2024/0707.md)
 
 </div>
