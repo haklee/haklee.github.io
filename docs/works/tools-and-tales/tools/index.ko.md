@@ -18,3 +18,11 @@ title: "도구들"
 -   [__오토캐드 - 동적 블록__](./dynamic-block/index.md)
 
 </div>
+
+## Today I Learned
+
+<div class="grid cards" markdown>
+
+-   [__2024. 07.__](./til/2407.md)
+
+</div>

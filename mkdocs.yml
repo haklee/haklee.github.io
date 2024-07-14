@@ -55,6 +55,7 @@ not_in_nav: |
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/boundlessx-quiz/*.md
   works/tools-and-tales/form-experiments/**/*.md
   works/tools-and-tales/tools/dynamic-block/**/*.md
+  works/tools-and-tales/tools/til/**/*.md
   works/tools-and-tales/thoughts/**/*.md
   works/city-fragments/thoughts/**/*.md
   adr/docs/LICENSE.MIT.md
