@@ -31,3 +31,7 @@
     border-color: black;
     color: var(--md-accent-bg-color)
 }
+
+code {
+    white-space : pre-wrap !important;
+}
