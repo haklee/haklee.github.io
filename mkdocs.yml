@@ -1,4 +1,5 @@
 site_name: Hak Lee
+site_url: https://haklee.com/
 theme:
   name: material
   font:
