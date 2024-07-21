@@ -2,7 +2,7 @@
 title: "Toolbox"
 ---
 
-*(last modified: 2024. 6. 16.)*
+*(last modified: 2024. 7. 21.)*
 
 ## Intro
 Lately, I've started thinking that tools can be changed or learned anew at any time depending on the project. However, life is finite and the time available to use tools is limited, so unfortunately it will be impossible for me to master all the tools. But even so, with the mindset of trying my best to use the tools I want to try out, I keep learning new tools. Here, I will list the tools I have used so far.
@@ -34,6 +34,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | NestJS  | 4      | I started with server development using Express, but later settled on NestJS. I have utilized features such as socket communication, logging, guards, type checking, simple testing, Swagger integration, and various ORM integrations. Additionally, I have implemented functionalities like login, cloud storage integration, and task queue integration. |
 | Next.js | 2      | I briefly worked with it for creating toy projects that integrated the front-end and server. |
 | Flask   | 2      | I briefly used Flask when I needed to add server functionality to projects based on Python. |
+| Django  | 2      | I briefly worked with it creating an API server that integrates with Celery. After examining DRF and Django Ninja, I chose to use Django Ninja for the following reasons: DRF seemed too tightly coupled with ORM, and Django Ninja was much easier to use initially. |
 
 ### Query Builder / ORM
 | Tool    | Proficiency | Description |
@@ -58,7 +59,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Tool     | Proficiency | Description |
 | :------- | :----: | :--- |
 | Swagger  | 2      | I have mainly used Swagger in conjunction with NestJS for manually testing various API functionalities. |
-| Postman  | 2      | I have used Postman for manually testing API functionalities or when I needed to perform a series of consecutive API calls. |
+| Postman  | 3      | I have used Postman for manually testing API functionalities or when I needed to perform a series of consecutive API calls. |
 | Insomnia | 1      | I have used Insomnia before using Postman for manually testing API functionalities. |
 
 ## Version Control
@@ -88,7 +89,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | :------------- | :----: | :--- |
 | pm2            | 3      | I frequently utilized it for zero-downtime server deployment and log inspection. |
 | docker         | 3      | I have utilized it in various deployment scenarios. Since I have only used it focusing on the features needed for each situation, I think that my overall understanding may not be very high. |
-| docker compose | 2      | I have utilized it in various deployment scenarios. Since I have only used it focusing on the features needed for each situation, I think that my overall understanding may not be very high. |
+| docker compose | 3      | I have utilized it in various deployment scenarios. Since I have only used it focusing on the features needed for each situation, I think that my overall understanding may not be very high. |
 | github action  | 2      | The current site is managed by using Github Actions to automate deployment. |
 
 ## 3D/CAD
