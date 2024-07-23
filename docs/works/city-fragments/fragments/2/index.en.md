@@ -14,6 +14,11 @@ Just as a street without cleaners accumulates the city's wastes, information pil
 
 Is a branch still alive if it remains locally even though it has been deleted remotely?
 
+## 친구, 변신.
+*Written on 2024-07-23*
+
+Two friends whom I had registered by phone number in my messenger app have changed their nicknames to "Flower" and "Cargo Man," but I have no idea when this happened.
+
 ## 도시 확장, 기록.
 *Excerpted from notes written on 2019-03-06*
 ```

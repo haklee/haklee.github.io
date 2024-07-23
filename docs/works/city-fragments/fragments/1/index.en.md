@@ -81,3 +81,21 @@ There are cities that implement policies to make residents fit certain standards
 How does a city observe its residents' behavior? It would be ideal to collect and log all the information that residents receive and generate while residents are connected to the city, and analyze it later. However, this is impractical because it requires vast storage space to gather information from all residents and necessitates developing methods to analyze this data (moreover, we need to consider what 'all' is when we are saying we are collecting all information from residents.). Therefore, it's more realistic to establish a system that selects and records only partial information about specific situations, periodically analyzes this data, and records the results.
 
 What information is collected, how it's analyzed, and how the analysis results are incorporated into policies can be said to form the foundation of the city.
+
+
+## City without Collisions.
+*Recombined notes written on 2019-02-27, 2019-03-18*
+
+1
+
+We can see the city, so it's possible to see and avoid people, facilities, cars, and buildings before colliding with them. Then, in a city where the concept of collision doesn't exist, wouldn't we not need to see things for the purpose of avoiding them? Seeing to avoid essentially means seeing to notice if there's something near me that could reach the same space where my body will be in the near future. In a city without collisions, there would be no problem even if an object occupies the same space as me, so it would be okay not to care about the objects around me, and therefore it wouldn't matter if the visual information of surrounding objects is updated at slow intervals. If so, both the provider of visual information and the judge of visual information could reduce the resources spent on providing and judging information, thus reducing the operating costs of the city.
+
+2
+
+Since we won't collide with nearby objects, we don't need to look hard at anything except what we want to focus on. Originally, if we were looking at a distant electronic display and suddenly a ball flew in front of our eyes, we would have to see it and avoid it, but now we can ignore it and keep looking at the display. In a classroom, we don't have to worry about colliding with a nearby window or a friend sitting next to us when we stretch our arms left and right. Whether objects are far or near, things we're not interested in don't need to be expressed in detail. Interior design will become the exclusive domain of those who want to see it, and to someone not interested in space, an empty warehouse and a hall decorated in Baroque style might look similar (what exactly is 'space' to this person?). Since it would be possible to experience the city just by applying simplified details to most objects, it's possible to further reduce the city's operating costs.
+
+3
+
+If we don't need to see the city because there are no collisions, we need to redesign all elements that assume collisions. There's no need to let a crowded elevator pass, no need to walk at the pace of the person in front on stairs. There's no need to be in contact with six people in a packed subway, and no need to worry about bumping into people coming from the opposite side in a transfer passage. Corridors can be narrower than 90cm. I'm not even sure if we need the concept of a corridor since we won't bump into walls either. No matter how high we jump, we won't hit the ceiling. Then, is there a need for a floor?
+
+The city without collisions is also a city where the human scale is redefined.
