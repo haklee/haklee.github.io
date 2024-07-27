@@ -10,5 +10,6 @@ title: "Thoughts"
 -   [__AutoCAD functionalities (07. 07.)__](./2024/0707.md)
 -   [__Logging TIL(Today I Learned) (07. 14.)__](./2024/0714.md)
 -   [__Architects who develop (07. 21.)__](./2024/0721.md)
+-   [__About Grasshopper and for-loop (07. 27.)__](./2024/0727.md)
 
 </div>
