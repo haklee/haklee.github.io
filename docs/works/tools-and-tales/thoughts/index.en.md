@@ -12,5 +12,6 @@ title: "Thoughts"
 -   [__Architects who develop (07. 21.)__](./2024/0721.md)
 -   [__About Grasshopper and for-loop (07. 27.)__](./2024/0727.md)
 -   [__Developers I'd like to work with (1) (07. 29.)__](./2024/0729.md)
+-   [__Developers I'd like to work with (2) (07. 31.)__](./2024/0731.md)
 
 </div>
