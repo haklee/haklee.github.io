@@ -24,5 +24,6 @@ title: "도구들"
 <div class="grid cards" markdown>
 
 -   [__2024. 07.__](./til/2407.md)
+-   [__2024. 07. - 요약__](./til/2407-summary.md)
 
 </div>

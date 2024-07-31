@@ -19,10 +19,10 @@ title: "tools"
 
 </div>
 
-## Today I Learned (not translated)
+## Today I Learned
 
 <div class="grid cards" markdown>
 
--   [__2024. 07.__](./til/2407.md)
+-   [__2024. 07. - Summary__](./til/2407-summary.md)
 
 </div>
