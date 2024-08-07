@@ -14,5 +14,5 @@ title: "Thoughts"
 -   [__Developers I'd like to work with (1) (07. 29.)__](./2024/0729.md)
 -   [__Developers I'd like to work with (2) (07. 31.)__](./2024/0731.md)
 -   [__Skill Tree for Architects Interested in Learning Development - Introduction (08. 03.)__](./2024/0803.md)
-
+-   [__Education Methods for Development Newbies (08. 07.)__](./2024/0807.md)
 </div>
