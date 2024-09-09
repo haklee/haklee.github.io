@@ -4,10 +4,11 @@ title: "tools"
 
 <div class="grid cards" markdown>
 
--   [__Toolbox__](./toolbox/index.md)
+- [**Toolbox**](./toolbox/index.md)
 
-    ---
-    The tools I have used.
+  ***
+
+  The tools I have used.
 
 </div>
 
@@ -15,7 +16,7 @@ title: "tools"
 
 <div class="grid cards" markdown>
 
--   [__AutoCAD - Dynamic Block__](./dynamic-block/index.md)
+- [**AutoCAD - Dynamic Block**](./dynamic-block/index.md)
 
 </div>
 
@@ -23,6 +24,7 @@ title: "tools"
 
 <div class="grid cards" markdown>
 
--   [__2024. 07. - Summary__](./til/2407-summary.md)
+- [**2024. 07. - Summary**](./til/2407-summary.md)
+- [**2024. 08. - Summary**](./til/2408-summary.md)
 
 </div>

@@ -4,10 +4,11 @@ title: "도구들"
 
 <div class="grid cards" markdown>
 
--   [__도구함__](./toolbox/index.md)
+- [**도구함**](./toolbox/index.md)
 
-    ---
-    그간 다뤄본 도구들을 정리한다.
+  ***
+
+  그간 다뤄본 도구들을 정리한다.
 
 </div>
 
@@ -15,7 +16,7 @@ title: "도구들"
 
 <div class="grid cards" markdown>
 
--   [__오토캐드 - 동적 블록__](./dynamic-block/index.md)
+- [**오토캐드 - 동적 블록**](./dynamic-block/index.md)
 
 </div>
 
@@ -23,8 +24,9 @@ title: "도구들"
 
 <div class="grid cards" markdown>
 
--   [__2024. 07.__](./til/2407.md)
--   [__2024. 07. - 요약__](./til/2407-summary.md)
--   [__2024. 08.__](./til/2408.md)
+- [**2024. 07.**](./til/2407.md)
+- [**2024. 07. - 요약**](./til/2407-summary.md)
+- [**2024. 08.**](./til/2408.md)
+- [**2024. 08. - 요약**](./til/2408-summary.md)
 
 </div>

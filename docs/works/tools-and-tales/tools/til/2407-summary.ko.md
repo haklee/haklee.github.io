@@ -2,11 +2,11 @@
 title: "TIL - 2024. 07. - Summary"
 ---
 
-[:material-arrow-left-bold: 이전 페이지](../index.md){ .md-button }  
+[:material-arrow-left-bold: 이전 페이지](../index.md){ .md-button }
 
-*이 문서는 Claude 3.5 Sonnet을 활용하여 제작했습니다.*
+_이 문서는 Claude 3.5 Sonnet을 활용하여 제작했습니다._
 
-[이 문서](./2407.md){:target="_blank"}는 2024년 7월 14일부터 31일까지의 프로그래밍 및 기술 관련 일일 메모를 포함하고 있습니다. 주요 내용은 다음과 같습니다:
+[이 문서](./2407.md){:target="\_blank"}는 2024년 7월 14일부터 31일까지의 프로그래밍 및 기술 관련 일일 메모를 포함하고 있습니다. 주요 내용은 다음과 같습니다:
 
 1. C# 2차원 배열 사용법
 2. mkdocs에서 링크 설정 및 sitemap.xml 생성 문제 해결
@@ -21,4 +21,4 @@ title: "TIL - 2024. 07. - Summary"
 
 이 메모들은 다양한 프로그래밍 언어, 프레임워크, 도구들에 대한 실용적인 팁과 문제 해결 방법을 포함하고 있어, 개발자들에게 유용한 참고 자료가 될 수 있습니다.
 
-[:material-arrow-left-bold: 이전 페이지](../index.md){ .md-button }  
+[:material-arrow-left-bold: 이전 페이지](../index.md){ .md-button }
