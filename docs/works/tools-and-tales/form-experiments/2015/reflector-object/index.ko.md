@@ -1,5 +1,5 @@
 ---
-title: "반사-사물"
+title: "반사체-사물"
 ---
 
 [:material-arrow-left-bold: 프로젝트 목록](../../index.md){ .md-button }  
