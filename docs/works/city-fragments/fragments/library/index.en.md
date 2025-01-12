@@ -3,6 +3,7 @@ title: "library"
 ---
 
 ## Dialog
+
 *Excerpted from a conversation on 2024-08-10*
 
 **Hak Lee(H)**: What do you think about libraries?
@@ -16,23 +17,23 @@ Is there anything specific you'd like to know more about regarding libraries? Fo
 **C**: Interesting questions. Let's look at each of these cases:
 
 1. A library without books:
-    
+
     With modern technological advancements, the concept of a 'bookless library' is becoming a reality. Such libraries could take forms like:
-    
+
     * Digital libraries: All materials are provided as e-books, audiobooks, or digital documents.
     * Multimedia centers: Information is accessed through computers, tablets, and other digital devices instead of books.
     * Makerspaces: Spaces that provide practical tools like 3D printers, robotics kits, etc.
-    
+
     These spaces may not have traditional books, but they still fulfill the essential functions of a library: learning and information sharing.
 
 2. A library without people:
-    
+
     This concept also exists in reality:
-    
+
     * Unmanned libraries: Operating 24/7 through automated systems, allowing check-out/return without librarians.
     * Online libraries: Libraries that exist only online without a physical space.
     * Robot librarians: Some libraries use robots for tasks like book sorting or guiding.
-    
+
     However, a completely 'people-less' library is realistically difficult. Human roles are still important for system management, material selection, answering complex queries, etc.
 
 These new forms of libraries are expanding the traditional concept of a library. However, they still maintain the core values of libraries: providing access to information and sharing knowledge. What do you think about this?
