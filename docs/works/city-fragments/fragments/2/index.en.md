@@ -9,17 +9,17 @@ title: "2"
 Is 010-1234-5678 John Doe really John Doe? Even after the number's owner changes, some will still look for John Doe, some will look for John Doe with his new number, and some will look for someone else using John Doe's old number. While some information in the city, like physical location, is updated in real-time, other information may update slowly or not at all. There's information that remains like an afterimage and gradually fades, information that stays in place until overwritten by new data, information that degrades each time when it's partially copied and moved elsewhere...
 Just as a street without cleaners accumulates the city's wastes, information piles up everywhere and flows into unexpected places. Without realizing it, I'm already flowing through various parts of the city.
 
-## Things, Existence
-
-*Excerpted from notes written on 2019-04-03*
-
-Is a branch still alive if it remains locally even though it has been deleted remotely?
-
 ## Friend, Transformation
 
 *Written on 2024-07-23*
 
 Two friends whom I had registered by phone number in my messenger app have changed their nicknames to "Flower" and "Cargo Man," but I have no idea when this happened.
+
+## Things, Existence
+
+*Excerpted from notes written on 2019-04-03*
+
+Is a branch still alive if it remains locally even though it has been deleted remotely?
 
 ## City Expansion, Log
 

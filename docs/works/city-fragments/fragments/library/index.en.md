@@ -2,6 +2,42 @@
 title: "library"
 ---
 
+## Tell me about a library that only librarians can visit
+
+*Excerpted from a conversation on 2025-01-12*
+
+**Hak Lee(H)**: Tell me about a library that only librarians can visit.
+
+**Claude 3.5 Sonnet**: Ordinary readers couldn't enter the librarians' library. Though there was no door at the entrance, non-librarians couldn't find it. It was as if the library itself was hiding. Librarians called this 'the Library's Veil.'
+
+Special qualifications were required to enter this library. Experience organizing at least a thousand books, the ability to read catalogs in five languages, and most importantly - ears that could hear the whispers of books. Among all the world's librarians, only a select few could step foot in this place.
+
+The library's rules were strict. Librarians could never read the books they organized. They could only touch the covers, and the contents had to remain forever secret. Strangely, this rule made them happier. Keeping the books' secrets was their private joy.
+
+Every winter solstice night, librarians from around the world gathered at this library. They whispered the names of books lost during the year and exchanged lists of newly discovered ones. This ritual continued until sunrise, and when morning came, they returned to their respective libraries.
+
+In the deepest part of the library was 'the First Librarian's Room.' It was said to contain just one book, which recorded the history of all libraries and the names of all librarians. But the key to that room had long since disappeared, and the door remained forever closed.
+
+Librarians didn't age in this library. Or perhaps they were already old enough. Time no longer held meaning for them. Only the order of books and the completeness of catalogs measured their lives.
+
+## Tell me about a library so vast that you can't see its end
+
+*Excerpted from a conversation on 2025-01-01*
+
+**Hak Lee(H)**: Tell me about a library so vast that you can't see its end.
+
+**Claude 3.5 Sonnet**: People knew of the infinite library's existence, but few had ventured there. In this library, where no moonlit windows or wall clocks existed, time seemed to stand still. Walking between the bookshelves, even footsteps were swallowed by the books, leaving no echoes behind.
+
+All those who tried to find the library's end failed. One person walked eastward for a week, but the shelves kept extending, and when they looked back, their starting point had become faint. Another hung a red ribbon on the third shelf to the left, but the next day, the ribbon was found on an unfamiliar shelf.
+
+The librarians claimed to know the location of every book in the library, yet even they would get lost. They sometimes said that books they had organized would be found in completely different places the next day. It was as if the books came alive at night, creating their own order.
+
+In this library, no one could immediately find the book they were looking for. Yet strangely, while wandering lost, they would coincidentally encounter books they desperately needed. It was as if the library read visitors' minds and showed them the books they needed most.
+
+Mathematicians who tried to measure the library's size concluded that it didn't follow the laws of Euclidean geometry. Sometimes turning left three times would bring you back to your starting point, and sometimes walking straight ahead would lead to encountering your own back.
+
+In this library, all books seemed to simultaneously exist and not exist. The book you were looking for was certainly there somewhere, but when you tried to find it, it was always just beyond reach.
+
 ## Dialog
 
 *Excerpted from a conversation on 2024-08-10*
