@@ -16,7 +16,7 @@ title: "tools"
 
 <div class="grid cards" markdown>
 
-- [**AutoCAD - Dynamic Block**](./dynamic-block/index.md)
+- [**AutoCAD**](./autocad/index.md)
 
 </div>
 

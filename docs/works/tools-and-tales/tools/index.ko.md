@@ -16,7 +16,7 @@ title: "도구들"
 
 <div class="grid cards" markdown>
 
-- [**오토캐드 - 동적 블록**](./dynamic-block/index.md)
+- [**오토캐드**](./autocad/index.md)
 
 </div>
 

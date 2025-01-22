@@ -1,8 +1,8 @@
 ---
-title: "오토캐드 - 동적 블록"
+title: "AutoCAD"
 ---
 
-# 작업들
+# Works
 
 <div class="grid cards" markdown>
 
