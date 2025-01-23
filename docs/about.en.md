@@ -23,6 +23,10 @@ Researching and creating services in the field of computational architectural de
 - __[Ngine Studios](https://www.ngine.co.kr), Technology Research team, developer__, 2019 May – 2020 Aug
 - __[Zenerate](https://zenerate.ai), director, software engineer__, 2020 Sep – Now
 
+## Contact
+
+<haklee@haklee.com>
+
 ## Me
 
 ![me](./assets/about/about-self.jpg){width=500}
