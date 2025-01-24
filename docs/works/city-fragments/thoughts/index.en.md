@@ -6,6 +6,7 @@ title: "Thoughts"
 
 <div class="grid cards" markdown>
 
+- [__Spatial Design: User Experience and Design Perspectives (01. 24.)__](./2025/0124.md)
 - [__Virtual Space and Drawings (01. 22.)__](./2025/0122.md)
 
 </div>
