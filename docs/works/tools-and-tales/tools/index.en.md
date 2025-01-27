@@ -6,9 +6,8 @@ title: "tools"
 
 - [**Toolbox**](./toolbox/index.md)
 
-  ***
-
-  The tools I have used.
+    ---
+    The tools I have used.
 
 </div>
 
