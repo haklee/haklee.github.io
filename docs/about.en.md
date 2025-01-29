@@ -21,7 +21,7 @@ Researching and creating services in the field of computational architectural de
 - __[Swallaby](https://www.swallaby.com), researcher__, 2018 Jan – 2018 Feb
 - __[Ngine Studios](https://www.ngine.co.kr), Live team, game developer__, 2018 Aug – 2019 Apr
 - __[Ngine Studios](https://www.ngine.co.kr), Technology Research team, developer__, 2019 May – 2020 Aug
-- __[Zenerate](https://zenerate.ai), director, software engineer__, 2020 Sep – Now
+- __[Zenerate](https://zenerate.ai), director, software engineer__, 2020 Sep – 2025 Jan
 
 ## Contact
 

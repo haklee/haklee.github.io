@@ -21,7 +21,7 @@ Computational architectural design^[__1)__](./works/tools-and-tales/thoughts/202
 - __[스왈라비](https://www.swallaby.com), 연구원__, 2018 Jan – 2018 Feb
 - __[엔진스튜디오](https://www.ngine.co.kr), 라이브팀, 개발자__, 2018 Aug – 2019 Apr
 - __[엔진스튜디오](https://www.ngine.co.kr), 기술연구팀, 프로그래머__, 2019 May – 2020 Aug
-- __[제너레잇](https://zenerate.ai), 사내이사, 소프트웨어 엔지니어__, 2020 Sep – Now
+- __[제너레잇](https://zenerate.ai), 사내이사, 소프트웨어 엔지니어__, 2020 Sep – 2025 Jan
 
 ## Contact
 
