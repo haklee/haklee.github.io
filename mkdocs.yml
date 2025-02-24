@@ -55,6 +55,8 @@ not_in_nav: |
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/problems/*.md
   works/tools-and-tales/data-structures-and-algorithms/computational-geometry/boundlessx-quiz/*.md
   works/tools-and-tales/data-structures-and-algorithms/space-syntax/vae/**/*.md
+  works/tools-and-tales/data-structures-and-algorithms/basics/topic/**/*.md
+  works/tools-and-tales/data-structures-and-algorithms/basics/problem/**/*.md
   works/tools-and-tales/form-experiments/**/*.md
   works/tools-and-tales/tools/autocad/works/**/*.md
   works/tools-and-tales/tools/til/**/*.md
@@ -109,6 +111,10 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
 
 extra:
   generator: false
