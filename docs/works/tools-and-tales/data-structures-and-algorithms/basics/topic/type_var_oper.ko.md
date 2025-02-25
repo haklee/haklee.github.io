@@ -250,10 +250,11 @@ title: "타입, 변수, 연산"
     i *= 2  # 곱하기도 같은 방식으로 쓸 수 있다. 계산 후 i는 8이 된다.
     i //= 3  # 몫 계산도 비슷하게 할 수 있다. 계산 후 i는 2다.
 
-    j, k = True, False
+    j = 3 == 5  # 비교연산. 등호 기호를 두 번 쓰면 양쪽의 값이 같은지 판별한다. 3과 5는 다르므로 j는 False.
+    k = 3 != 5  # 비교연산. 느낌표 다음 등호 기호를 쓰면 양쪽의 값이 다른지 판별한다. 3과 5는 다르므로 k는 True.
     l = j and k  # and 연산. 둘 다 True인 경우에만 계산 값이 True가 되고, 그 외에는 False다. l은 False.
     m = j or k  # or 연산. 둘 다 False인 경우에만 계산 값이 False가 되고, 그 외에는 True다. m은 True.
-    j = not j  # not 연산. True는 False로, False는 True로 바꿔준다. j가 False가 된다.
+    j = not j  # not 연산. True는 False로, False는 True로 바꿔준다. j가 True가 된다.
 
     # 이 외에도 정말 다양한 연산들이 있는데, 이는 다른 연산을 활용하는 경우에 좀 더 자세히 다루도록 하겠다.
     ```
@@ -279,10 +280,11 @@ title: "타입, 변수, 연산"
     i += 2;  // i = i + 2를 줄여서 쓴 것이라고 보면 된다. 위에서 i가 2가 되었으므로, 여기서는 4 + 2 = 6이 된다.
     i *= 2;  // 곱하기도 같은 방식으로 쓸 수 있다. 계산 후 i는 12가 된다.
 
-    let j = true, k = false;
+    let j = 3 == 5  // 비교연산. 등호 기호를 두 번 쓰면 양쪽의 값이 같은지 판별한다. 3과 5는 다르므로 j는 false.
+    let k = 3 != 5  // 비교연산. 느낌표 다음 등호 기호를 쓰면 양쪽의 값이 다른지 판별한다. 3과 5는 다르므로 k는 true.
     let l = j && k;  // and 연산. 둘 다 True인 경우에만 계산 값이 True가 되고, 그 외에는 False다. l은 False.
     let m = j || k;  // or 연산. 둘 다 False인 경우에만 계산 값이 False가 되고, 그 외에는 True다. m은 True.
-    j = !j;  // not 연산. true는 false로, false는 true로 바꿔준다. j가 false가 된다.
+    j = !j;  // not 연산. true는 false로, false는 true로 바꿔준다. j가 true가 된다.
 
     // 이 외에도 정말 다양한 연산들이 있는데, 이는 다른 연산을 활용하는 경우에 좀 더 자세히 다루도록 하겠다.
     ```
@@ -312,10 +314,11 @@ title: "타입, 변수, 연산"
     i += 2;  // i = i + 2를 줄여서 쓴 것이라고 보면 된다. 위에서 i가 2가 되었으므로, 여기서는 4 + 2 = 6이 된다.
     i *= 2;  // 곱하기도 같은 방식으로 쓸 수 있다. 계산 후 i는 12가 된다.
 
-    bool j = true, k = false;
+    bool j = 3 == 5  // 비교연산. 등호 기호를 두 번 쓰면 양쪽의 값이 같은지 판별한다. 3과 5는 다르므로 j는 False.
+    bool k = 3 != 5  // 비교연산. 느낌표 다음 등호 기호를 쓰면 양쪽의 값이 다른지 판별한다. 3과 5는 다르므로 k는 True.
     bool l = j && k;  // and 연산. 둘 다 True인 경우에만 계산 값이 True가 되고, 그 외에는 False다. l은 False.
     bool m = j || k;  // or 연산. 둘 다 False인 경우에만 계산 값이 False가 되고, 그 외에는 True다. m은 True.
-    j = !j;  // not 연산. true는 false로, false는 true로 바꿔준다. j가 false가 된다.
+    j = !j;  // not 연산. true는 false로, false는 true로 바꿔준다. j가 true가 된다.
 
     // 이 외에도 정말 다양한 연산들이 있는데, 이는 다른 연산을 활용하는 경우에 좀 더 자세히 다루도록 하겠다.
     ```
@@ -345,10 +348,11 @@ title: "타입, 변수, 연산"
     i += 2;  // i = i + 2를 줄여서 쓴 것이라고 보면 된다. 위에서 i가 2가 되었으므로, 여기서는 4 + 2 = 6이 된다.
     i *= 2;  // 곱하기도 같은 방식으로 쓸 수 있다. 계산 후 i는 12가 된다.
 
-    bool j = true, k = false;
+    bool j = 3 == 5  // 비교연산. 등호 기호를 두 번 쓰면 양쪽의 값이 같은지 판별한다. 3과 5는 다르므로 j는 false.
+    bool k = 3 != 5  // 비교연산. 느낌표 다음 등호 기호를 쓰면 양쪽의 값이 다른지 판별한다. 3과 5는 다르므로 k는 true.
     bool l = j && k;  // and 연산. 둘 다 True인 경우에만 계산 값이 True가 되고, 그 외에는 False다. l은 False.
     bool m = j || k;  // or 연산. 둘 다 False인 경우에만 계산 값이 False가 되고, 그 외에는 True다. m은 True.
-    j = !j;  // not 연산. true는 false로, false는 true로 바꿔준다. j가 false가 된다.
+    j = !j;  // not 연산. true는 false로, false는 true로 바꿔준다. j가 true가 된다.
 
     // 이 외에도 정말 다양한 연산들이 있는데, 이는 다른 연산을 활용하는 경우에 좀 더 자세히 다루도록 하겠다.
     ```
