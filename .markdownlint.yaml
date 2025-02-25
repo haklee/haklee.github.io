@@ -1,0 +1,8 @@
+# Inline HTML: allow
+MD033: false
+
+# length limit: off
+MD013: false
+
+# 문서의 title과 h1 헤더가 달라야 하는 경우가 존재함(about page같이).
+MD025: false
