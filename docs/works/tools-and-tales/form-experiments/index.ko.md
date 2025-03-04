@@ -109,7 +109,7 @@ title: "형태 실험들"
 - [__프로세싱 실험들 (2015)__](./2015/pc-exp/index.md)
 
     ---
-    ![pc-1](../../../assets/tools-and-tales/form-experiments/2015/pc-exp/pca-img.png){width=200}
+    ![pc-1](../../../assets/tools-and-tales/form-experiments/2015/pc-exp/pc1.png){width=200}
 
 </div>
 
