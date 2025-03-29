@@ -6,6 +6,7 @@ title: "Thoughts"
 
 <div class="grid cards" markdown>
 
+- [__Virtual Space and Floor Plan - 1 (2025. 03. 28.)__](./2025/0328.md)
 - [__Virtual Space and Ground (2025. 03. 27.)__](./2025/0327.md)
 - [__Game and Bug: Going Through the Walls (2025. 02. 15.)__](./2025/0215.md)
 - [__Game and Bug: Portal (2025. 02. 10.)__](./2025/0210.md)
