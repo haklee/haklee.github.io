@@ -5,6 +5,7 @@ title: "Toolbox"
 *(last modified: 2024. 7. 21.)*
 
 ## Intro
+
 Lately, I've started thinking that tools can be changed or learned anew at any time depending on the project. However, life is finite and the time available to use tools is limited, so unfortunately it will be impossible for me to master all the tools. But even so, with the mindset of trying my best to use the tools I want to try out, I keep learning new tools. Here, I will list the tools I have used so far.
 
 | Proficiency  | Description |
@@ -16,6 +17,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 |    5    | Use the tool's language as a part of my body/being. |
 
 ## Language
+
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | python3    | 4      | I used it as the main language for developing simple servers, task queues, packages for geometric operations, or solving various algorithmic problems.|
@@ -28,7 +30,9 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | R          | 1      | I briefly worked with it while participating in a study group invited within SNU Urban Form and Conservation Lab. |
 
 ## Web Service - related
+
 ### Framework
+
 | Tool    | Proficiency | Description |
 | :------ | :----: | :--- |
 | NestJS  | 4      | I started with server development using Express, but later settled on NestJS. I have utilized features such as socket communication, logging, guards, type checking, simple testing, Swagger integration, and various ORM integrations. Additionally, I have implemented functionalities like login, cloud storage integration, and task queue integration. |
@@ -37,6 +41,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Django  | 2      | I briefly worked with it creating an API server that integrates with Celery. After examining DRF and Django Ninja, I chose to use Django Ninja for the following reasons: DRF seemed too tightly coupled with ORM, and Django Ninja was much easier to use initially. |
 
 ### Query Builder / ORM
+
 | Tool    | Proficiency | Description |
 | :------ | :----: | :--- |
 | TypeORM | 2      | I worked with TypeORM while maintaining a project that was implemented with it. However, the ORM's entity-based perspective of viewing the database didn't suit my preference, so I later transitioned to the query builder. |
@@ -44,18 +49,21 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Prisma  | 1      | While looking for a query builder/ORM to replace TypeORM, I briefly tried Prisma. However, at the time, it did not yet support various geometric data types in MySQL, so I moved on. |
 
 ### MQ
+
 | Tool   | Proficiency | Description |
 | :----- | :----: | :--- |
 | Celery | 3      | I started using Celery to integrate task queues with functionalities implemented in Python |
 | ZeroMQ | 2      | I first encountered ZeroMQ when creating internal tools at Ngine Studios, and later briefly used it to implement a task queue for a server built with Node.js. |
 
 ### Monitoring
+
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | Prometheus | 2      | I have used it for service monitoring. |
 | Grafana    | 2      | I have used it for service monitoring. |
 
 ### Testing
+
 | Tool     | Proficiency | Description |
 | :------- | :----: | :--- |
 | Swagger  | 2      | I have mainly used Swagger in conjunction with NestJS for manually testing various API functionalities. |
@@ -63,11 +71,13 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Insomnia | 1      | I have used Insomnia before using Postman for manually testing API functionalities. |
 
 ## Version Control
+
 | Tool | Proficiency | Description |
 | :--- | :----: | :--- |
 | git  | 4      | Through various trials and errors, I learned how to use Git. I have acquired an understanding to a degree where I can create and establish a modified gitflow strategy tailored to the development team's situation. |
 
 ## Project Management
+
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | Jira       | 3      | I first utilized it during the game maintenance process at Ngine Studios, and I have an understanding level where I can create and experimentally use a ticket management strategy tailored to the development team's situation. |
@@ -77,6 +87,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Slack      | 3      | In the various teams I have been a part of so far, I have commonly used it. I have an understanding level where I can create a Slack bot to log necessary content and implement simple voting functions. |
 
 ## Database
+
 | Tool       | Proficiency | Description |
 | :--------- | :----: | :--- |
 | MySQL      | 4      | I have performed tasks ranging from basic database design for service operations to setting spatial indexes, optimizing slow queries, writing recursive queries using CTEs, creating triggers and procedures, as well as database dumps and migrations. |
@@ -85,6 +96,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Redis      | 2      | I have utilized Redis when dealing with task queues, and there have been a few instances where I used Redis in situations where data did not necessarily need to be managed with a relational database. |
 
 ## Deployment
+
 | Tool           | Proficiency | Description |
 | :------------- | :----: | :--- |
 | pm2            | 3      | I frequently utilized it for zero-downtime server deployment and log inspection. |
@@ -93,6 +105,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | github action  | 2      | The current site is managed by using Github Actions to automate deployment. |
 
 ## 3D/CAD
+
 | Tool                      | Proficiency | Description |
 | :------------------------ | :----: | :--- |
 | Rhino3D                   | 2      | I have briefly used it while taking architecture major courses. |
@@ -113,6 +126,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | QGIS                      | 2      | In the first semester of 2017, I first used QGIS to utilize geographic information provided by the public data portal for a design project. In the second semester, I used QGIS integrated with Python to analyze pedestrian data in Undergraduate Independent Study course. After that, I conducted a workshop over several weeks to explain how to use QGIS to undergraduate and graduate students in the Department of Architecture & Architectural Engineering. But it's been a long time since I last used it so I've almost forgotten it now. |
 
 ## 2D
+
 | Tool              | Proficiency | Description |
 | :---------------- | :----: | :--- |
 | Adobe Photoshop   | 3      | I have briefly used it while taking architecture major courses. |
@@ -120,12 +134,14 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Adobe InDesign    | 2      | I have briefly used it while taking architecture major courses. |
 
 ## Video
+
 | Tool                | Proficiency | Description |
 | :------------------ | :----: | :--- |
 | Adobe Premiere Pro  | 3      | I have briefly used it while taking media art major courses. |
 | Adobe After Effects | 1      | I have briefly used it while taking media art major courses. |
 
 ## Sound
+
 | Tool          | Proficiency | Description |
 | :------------ | :----: | :--- |
 | SuperCollider | 1      | I have briefly used it while taking media art major courses. I used it and then forgot it several times, so I took Eli Fieldsteel's basic tutorial about three times. But it's been a long time since I last used it so I've almost forgotten it now. |
@@ -137,6 +153,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | GoldWave      | 1      | I have briefly used it for personal projects. |
 
 ## Graphics & Other
+
 | Tool           | Proficiency | Description |
 | :------------- | :----: | :--- |
 | Processing     | 1      | I have briefly used it while taking media art major courses. |
@@ -147,6 +164,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Vulkan         | 1      | While searching for graphics-related materials, I discovered it and became interested, so I briefly tried it out. After writing a 900-line "hello triangle" code, I lost interest. |
 
 ## Electronics
+
 | Tool         | Proficiency | Description |
 | :----------- | :----: | :--- |
 | Arduino      | 3      | I have briefly used it while taking media art major courses. |
