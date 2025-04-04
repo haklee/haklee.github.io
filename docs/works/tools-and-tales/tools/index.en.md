@@ -16,6 +16,7 @@ title: "tools"
 <div class="grid cards" markdown>
 
 - [**AutoCAD**](./autocad/index.md)
+- [**Web 3D**](./web-3d/index.md)
 
 </div>
 
