@@ -1,7 +1,7 @@
 ---
 title: "도구함"
 ---
-*(last modified: 2025. 04. 04.)*
+*(last modified: 2025. 04. 27.)*
 
 ## Intro
 
@@ -138,6 +138,7 @@ title: "도구함"
 | Adobe Photoshop   | 3      | 건축학과 전공 수업을 들으며 활용해보았다. |
 | Adobe Illustrator | 2      | 건축학과 전공 수업을 들으며 활용해보았다. |
 | Adobe InDesign    | 2      | 건축학과 전공 수업을 들으며 활용해보았다. |
+| Adobe Lightroom   | 1      | 사진 편집을 위해 간단히 다뤄보았다. |
 
 ## Video
 
@@ -168,6 +169,7 @@ title: "도구함"
 | TouchDesigner  | 1      | 수업에서 다루진 않았으나 어떤 기능들이 있는지 테스트를 해보기 위해 잠깐 사용해보았다. |
 | OpenGL         | 1      | C++로 구현한 기하학적인 알고리즘의 결과물을 확인하기 위해 사용해보았다. |
 | Vulkan         | 1      | 그래픽스 관련 자료를 찾던 중에 발견하여 흥미가 동해 잠시 시도해봤다. 900줄 짜리 hello triangle 코드를 작성해본 뒤 흥미를 잃었다. |
+| Unity3D         | 2      | AR을 이용한 안드로이드 앱 개발을 위해 조금 다뤄보았다. AR 기능 개발에는 Vuforia를 사용했으며, stencil shader를 적용한 오브젝트를 생성해보았다. |
 
 ## Electronics
 

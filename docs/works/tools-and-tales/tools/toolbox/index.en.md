@@ -2,7 +2,7 @@
 title: "Toolbox"
 ---
 
-*(last modified: 2025. 04. 04.)*
+*(last modified: 2025. 04. 27.)*
 
 ## Intro
 
@@ -139,6 +139,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Adobe Photoshop   | 3      | I have briefly used it while taking architecture major courses. |
 | Adobe Illustrator | 2      | I have briefly used it while taking architecture major courses. |
 | Adobe InDesign    | 2      | I have briefly used it while taking architecture major courses. |
+| Adobe Lightroom   | 1      | I have briefly used it to edit photos. |
 
 ## Video
 
@@ -169,6 +170,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | TouchDesigner  | 1      | It was not covered in class, but I briefly used it to test what kind of features it has. |
 | OpenGL         | 1      | I used it to verify the results of geometrical algorithms implemented in C++. |
 | Vulkan         | 1      | While searching for graphics-related materials, I discovered it and became interested, so I briefly tried it out. After writing a 900-line "hello triangle" code, I lost interest. |
+| Unity3D        | 2      | I have briefly used it to create android AR application. Vuforia was used to implement AR features and I used stencil shader techique to create objects. |
 
 ## Electronics
 
