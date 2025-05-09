@@ -42,7 +42,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 
 ### library
 
-| 도구    | 숙련도 | 설명 |
+| Tool    | Proficiency | Description |
 | :------ | :----: | :--- |
 | Zustand  | 2      | I started using it while looking for a good library to use instead of the complex Redux for state management in React. After comparing it with Jotai, it seemed to have a structure more suitable for larger projects, and looking at the number of downloads on npm, it seemed like more people were using it, so I chose it. My understanding of Zustand is limited to knowing that when trying to use it with Next.js, there's a conflict between the server needing to be stateless and Zustand managing state globally, so this needs to be taken into consideration. |
 | R3F | 1 (AI)      | I started exploring its use for implementing processing-like screens on web pages. Initially, I was looking at Three.js, but then I saw that R3F (React Three Fiber) seemed to be easier to use with React, so I began creating various things with Cursor AI. |
