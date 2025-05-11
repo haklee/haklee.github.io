@@ -9,9 +9,9 @@ Computational architectural design^[__1)__](./works/tools-and-tales/thoughts/202
 ## Education
 
 - __서울과학고등학교__, 2009 Mar – 2012 Feb
-- __서울대학교, 건축학과 건축학전공__, 2012 Mar – now
-- __서울대학교, 영상매체예술 연합전공__, 2014 Sep – now
-- __서울대학교, 컴퓨터공학 부전공__, 2016 Mar – now
+- __서울대학교, 공과대학 건축학과 건축학전공__, 2012 Mar – now
+- __서울대학교, 미술대학 영상매체예술 연합전공__, 2014 Sep – now
+- __서울대학교, 공과대학 컴퓨터공학 부전공__, 2016 Mar – now
 
 ## Work Experience
 
