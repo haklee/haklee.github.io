@@ -1,7 +1,7 @@
 ---
 title: "도구함"
 ---
-*(last modified: 2025. 04. 27.)*
+*(last modified: 2025. 05. 29.)*
 
 ## Intro
 
@@ -51,7 +51,7 @@ title: "도구함"
 | 도구    | 숙련도 | 설명 |
 | :------ | :----: | :--- |
 | TypeORM | 2      | TypeORM으로 구현되어 있던 프로젝트를 유지보수하며 다뤄보았으나, ORM 특유의 엔티티를 기반으로 DB를 바라보는 관점이 취향에 맞지 않아 이후 query builder 진영으로 넘어갔다. |
-| Kysely  | 3      | 쿼리문 작성에 익숙해서 query builder를 찾아다니다가 typescript에 매우 친화적이라는 점에 이끌려 Kysely에 정착했다. |
+| Kysely  | 4      | 쿼리문 작성에 익숙해서 query builder를 찾아다니다가 typescript에 매우 친화적이라는 점에 이끌려 Kysely에 정착했다. 마이그레이션 및 시딩도 kysely를 통해서 진행한다. |
 | Prisma  | 1      | TypeORM를 대체할 수 있는 쿼리 빌더 / ORM을 찾던 중 잠시 사용해보았으나, 당시 mysql의 여러 도형 타입들에 대한 지원이 아직 되지 않아서 잠시 다뤄본 다음 넘어갔다. |
 
 ### MQ
@@ -109,6 +109,7 @@ title: "도구함"
 | docker         | 3      | 각종 배포 상황에서 활용해보았다. 상황에 따라 필요한 기능들 위주로만 사용해보아서 전반적인 이해도가 높지는 않을 수도 있다고 생각한다. |
 | docker compose | 3      | 각종 배포 상황에서 활용해보았다. 상황에 따라 필요한 기능들 위주로만 사용해보아서 전반적인 이해도가 높지는 않을 수도 있다고 생각한다. |
 | github action  | 2      | 현 사이트는 github action을 활용하여 자동으로 배포하는 방식으로 관리하고 있다. |
+| serverless     | 2      | NestJS를 활용하여 lambdalith한 API서버를 구현하는 데에 활용해보았다. |
 
 ## 3D/CAD/GIS
 
@@ -169,7 +170,7 @@ title: "도구함"
 | TouchDesigner  | 1      | 수업에서 다루진 않았으나 어떤 기능들이 있는지 테스트를 해보기 위해 잠깐 사용해보았다. |
 | OpenGL         | 1      | C++로 구현한 기하학적인 알고리즘의 결과물을 확인하기 위해 사용해보았다. |
 | Vulkan         | 1      | 그래픽스 관련 자료를 찾던 중에 발견하여 흥미가 동해 잠시 시도해봤다. 900줄 짜리 hello triangle 코드를 작성해본 뒤 흥미를 잃었다. |
-| Unity3D         | 2      | AR을 이용한 안드로이드 앱 개발을 위해 조금 다뤄보았다. AR 기능 개발에는 Vuforia를 사용했으며, stencil shader를 적용한 오브젝트를 생성해보았다. |
+| Unity3D        | 2      | AR을 이용한 안드로이드 앱 개발을 위해 조금 다뤄보았다. AR 기능 개발에는 Vuforia를 사용했으며, stencil shader를 적용한 오브젝트를 생성해보았다. |
 
 ## Electronics
 

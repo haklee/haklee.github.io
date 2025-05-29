@@ -2,7 +2,7 @@
 title: "Toolbox"
 ---
 
-*(last modified: 2025. 04. 27.)*
+*(last modified: 2025. 05. 29.)*
 
 ## Intro
 
@@ -52,7 +52,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | Tool    | Proficiency | Description |
 | :------ | :----: | :--- |
 | TypeORM | 2      | I worked with TypeORM while maintaining a project that was implemented with it. However, the ORM's entity-based perspective of viewing the database didn't suit my preference, so I later transitioned to the query builder. |
-| Kysely  | 3      | Being familiar with writing queries, I was drawn to Kysely for its TypeScript-friendly nature and settled on using it as my query builder. |
+| Kysely  | 4      | Being familiar with writing queries, I was drawn to Kysely for its TypeScript-friendly nature and settled on using it as my query builder. Migration and seeding can be managed with kysely. |
 | Prisma  | 1      | While looking for a query builder/ORM to replace TypeORM, I briefly tried Prisma. However, at the time, it did not yet support various geometric data types in MySQL, so I moved on. |
 
 ### MQ
@@ -110,6 +110,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | docker         | 3      | I have utilized it in various deployment scenarios. Since I have only used it focusing on the features needed for each situation, I think that my overall understanding may not be very high. |
 | docker compose | 3      | I have utilized it in various deployment scenarios. Since I have only used it focusing on the features needed for each situation, I think that my overall understanding may not be very high. |
 | github action  | 2      | The current site is managed by using Github Actions to automate deployment. |
+| serverless     | 2      | I have utilized it to deploy a lambdalithic API server implemented with NestJS. |
 
 ## 3D/CAD
 
