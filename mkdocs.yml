@@ -46,6 +46,8 @@ nav:
       - 생각들:
         - works/city-fragments/thoughts/index.md
         - ... | flat | works/city-fragments/thoughts/**/*.md
+    - 전자-건축:
+      - works/electronic-architecture/index.md
   - about: about.md
   - ADR: 
     - adr/index.md
