@@ -2,6 +2,10 @@
 title: "가상 공간 - Non-Euclidean Worlds Engine"
 ---
 
+[:material-arrow-left-bold: 가상 공간](./index.md){ .md-button }
+
+![non-euclidean](../../../assets/electronic-architecture/virtual-space/non-euclidean.png){width=800}
+
 - link: <https://www.youtube.com/watch?v=kEB11PQ9Eo8>  
 - category: Game engine
 - upload year: 2018
@@ -13,3 +17,5 @@ title: "가상 공간 - Non-Euclidean Worlds Engine"
         - 아래로 내려가는 경사의 터널을 지나갔는데 실제로는 더 높은 곳으로 이동했거나
         - ... 기타 여러 예시들이 구현되어 있다.
         - 구현 원리에 대한 설명도 나온다.
+
+[:material-arrow-left-bold: 가상 공간](./index.md){ .md-button }

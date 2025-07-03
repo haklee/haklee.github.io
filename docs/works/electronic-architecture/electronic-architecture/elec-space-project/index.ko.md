@@ -10,7 +10,7 @@ title: "전자-건축 - ELEC-SPACE-PROJECT"
 
 이러한 디테일에 대해 탐구해보기 위해 직접 간단한 어플리케이션을 개발해보기로 했다. 먼저 도면으로는 표현할 수 없지만 전자 공간으로는 구현할 수 있는 공간의 작동 메커니즘을 살펴보고, 어떤 공간을 구현할지 설명한 다음, 이를 어떻게 어플리케이션으로 구현했는지 설명할 것이다.
 
-- [7. 전자 공간의 메커니즘](../../elec-space-mechanism/index.md)
-- [8. 어플리케이션](../../application/index.md)
+- [7. 전자 공간의 메커니즘](../../elec-space-mechanism/index.md){:target="\_blank"}
+- [8. 어플리케이션](../../application/index.md){:target="\_blank"}
 
 [:material-arrow-left-bold: 전자-건축](../index.md){ .md-button }

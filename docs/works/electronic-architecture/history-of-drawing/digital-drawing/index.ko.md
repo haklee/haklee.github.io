@@ -2,6 +2,8 @@
 title: "도면의 역사 - 디지털 드로잉"
 ---
 
+[:material-arrow-left-bold: 도면의 역사](../index.md){ .md-button }
+
 1960년대 CAD(Computer-Aided Design) 소프트웨어의 등장은 건축 실무에 혁명적 변화를 가져왔다. 초기 CAD 시스템은 주로 항공우주 산업과 자동차 산업에서 발전했지만, 곧 건축 분야로 확산되었다. 처음에는 기존의 손 그리기 작업을 단순히 디지털 환경으로 옮긴 설계 보조 도구의 성격이 강했지만, 시간이 지나면서 설계 과정 자체를 근본적으로 변화시키기 시작했다.
 
 CAD 기술의 도입 초기에는 높은 비용과 복잡한 조작법 때문에 대형 건축사무소를 중심으로만 활용되었다. 그러나 1980년대 개인용 컴퓨터의 보급과 함께 AutoCAD와 같은 상대적으로 저렴하고 사용하기 쉬운 소프트웨어가 등장하면서 디지털 드로잉은 급속히 확산되었다. 이러한 변화는 건축 설계의 생산성을 크게 향상시켰으며, 도면의 정확성과 일관성을 높이는 데도 기여했다.
@@ -12,3 +14,5 @@ CAD 기술의 도입 초기에는 높은 비용과 복잡한 조작법 때문에
 
 - [AD 1997: Guggenheim Museum Bilbao](./guggenheim-museum-bilbao.md)
 - [AD 2002: City Hall, London](./london-city-hall.md)
+
+[:material-arrow-left-bold: 도면의 역사](../index.md){ .md-button }

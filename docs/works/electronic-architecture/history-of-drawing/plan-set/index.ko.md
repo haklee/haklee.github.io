@@ -2,6 +2,8 @@
 title: "도면의 역사 - 시공을 위한 도면 세트"
 ---
 
+[:material-arrow-left-bold: 도면의 역사](../index.md){ .md-button }
+
 기원전 1세기 로마의 건축가 비트루비우스(Vitruvius)가 저술한 『건축론(De Architectura)』은 건축 도면의 역사에서 중요한 이정표가 된다. 이 저서의 도입부에는 평면도, 입면도, 그리고 투시도에 대한 체계적인 설명이 포함되어 있다. 이는 이미 기원전 1세기에도 시공을 목적으로 한 체계적인 도면 세트의 개념이 존재했음을 시사한다.
 
 그러나 로마 제국의 쇠퇴 이후 중세 시대에 접어들면서 건축 도면의 활용 양상은 크게 변화했다. 이 시기의 건축은 주로 숙련된 석공 장인들을 중심으로 이루어졌으며, 체계적인 설계보다는 경험과 전통에 바탕을 둔 실습 위주의 접근 방식이 지배적이었다. 장인들은 세대를 거쳐 전수된 기술과 노하우를 바탕으로 건축물을 축조했으며, 이 과정에서 상세한 도면의 필요성은 상대적으로 낮았다.
@@ -14,3 +16,5 @@ title: "도면의 역사 - 시공을 위한 도면 세트"
 - [AD 1420: Piazza del Duomo](./piazza-del-duomo.md)
 - [AD 1450: Tempio Malatestiano 파사드 연구](./tempio-malatestiano-study.md)
 - [AD 1570: Villa Rotunda](./villa-rotunda.md)
+
+[:material-arrow-left-bold: 도면의 역사](../index.md){ .md-button }

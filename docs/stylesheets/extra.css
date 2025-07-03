@@ -8,6 +8,10 @@
     grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr))
 }
 
+.md-typeset .grid-2 {
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr))
+}
+
 /* md-button related */
 .md-typeset .md-button {
     border: 1px solid;

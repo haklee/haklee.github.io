@@ -2,6 +2,8 @@
 title: "BIM과 디지털 제조"
 ---
 
+[:material-arrow-left-bold: 도면의 역사](../index.md){ .md-button }
+
 BIM(Building Information Modeling) 기술의 등장은 건축 설계와 시공 과정에 또 다른 혁명을 가져왔다. 기존의 CAD가 2차원 도면을 디지털화하는 데 중점을 둔 반면, BIM은 건축물 전체를 3차원 정보 모델로 구축하는 통합적 접근을 제시했다. BIM 모델에는 기하학적 정보뿐만 아니라 재료, 비용, 시공 일정, 유지관리 정보 등이 모두 포함되어 있어, 건축물의 전체 생애주기에 걸친 정보 관리가 가능해졌다.
 
 BIM 기술은 설계 단계에서부터 시공, 유지관리에 이르기까지 모든 참여자들이 동일한 정보를 공유할 수 있게 함으로써 협업 효율성을 크게 향상시켰다. 또한 설계 변경 사항이 자동으로 모든 도면에 반영되어 도면 간 불일치 문제를 해결했으며, 다양한 시뮬레이션과 분석을 통해 설계 품질을 향상시키는 데도 기여했다.
@@ -14,3 +16,5 @@ BIM 기술은 설계 단계에서부터 시공, 유지관리에 이르기까지 
 
 - [AD 2008: National Stadium, Beijing (Bird’s Nest)](./bird-nest.md)
 - [AD 2014: Dongdaemun Design Plaza](./ddp.md)
+
+[:material-arrow-left-bold: 도면의 역사](../index.md){ .md-button }

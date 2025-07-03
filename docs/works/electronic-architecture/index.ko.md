@@ -2,9 +2,6 @@
 title: "HEADER"
 ---
 
-!!! danger "UNDER CONSTRUCTION"
-    This page is under construction.
-
 <div class="grid cards" markdown>
 
 - [__1. 도면의 역사__](./history-of-drawing/index.md)
