@@ -2,6 +2,16 @@
 title: "HEADER"
 ---
 
+# 전자-건축
+
+- 전시: 2025 서울대학교 공과대학 건축전
+- 장소: 서울대학교 제1파워플랜트 68동
+- 기간: 2025.06.30. ~ 2025.07.05.
+
+![leaflet](../../assets/electronic-architecture/leaflet-web.png){width=400}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bE7T5-TVkQQ?si=cen74f4bpezG8RR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div class="grid cards" markdown>
 
 - [__1. 도면의 역사__](./history-of-drawing/index.md)
