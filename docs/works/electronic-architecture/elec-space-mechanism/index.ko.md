@@ -30,6 +30,10 @@ title: "전자 공간의 메커니즘"
 
 ### [`r3f magic box` 사례 (PC 접속 권장)](https://codesandbox.io/p/sandbox/drc6qg){:target="\_blank"}
 
-### [`Antichamber` 사례: stencil shader](https://www.youtube.com/watch?v=EzM8LGzMjmc){:target="\_blank"}
+![r3f-magic-box](../../../assets/electronic-architecture/elec-space-mechanism/r3f-magic-box.png)
+
+### `Antichamber` 사례: stencil shader
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TykxwxpTtRo?si=cen74f4bpezG8RR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [:material-arrow-left-bold: 전자-건축](../index.md){ .md-button }

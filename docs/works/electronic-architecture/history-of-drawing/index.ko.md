@@ -4,6 +4,10 @@ title: "도면의 역사"
 
 [:material-arrow-left-bold: 전자-건축](../index.md){ .md-button }
 
+## 들어가며
+
+이 페이지에서는 시공을 위한 도면의 발전을 중심으로 도면이 어떻게 변화해왔는지에 대해 조사한 내용을 다룬다. `전자-건축`의 내용 중 유일하게 ai의 도움을 받아 작성했는데, 주장의 뼈대는 유지한 채 이를 뒷받침 할 수 있는 자료를 찾거나 문장을 다듬는 용도로 `Claude Sonnet 4`를 활용하였다.
+
 ## Table of Contents
 
 - [서론](./introduction.md)
