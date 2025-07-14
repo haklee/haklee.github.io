@@ -2,7 +2,7 @@
 title: "Toolbox"
 ---
 
-*(last modified: 2025. 05. 29.)*
+*(last modified: 2025. 07. 14.)*
 
 ## Intro
 
@@ -109,7 +109,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | pm2            | 3      | I frequently utilized it for zero-downtime server deployment and log inspection. |
 | docker         | 3      | I have utilized it in various deployment scenarios. Since I have only used it focusing on the features needed for each situation, I think that my overall understanding may not be very high. |
 | docker compose | 3      | I have utilized it in various deployment scenarios. Since I have only used it focusing on the features needed for each situation, I think that my overall understanding may not be very high. |
-| github action  | 2      | The current site is managed by using Github Actions to automate deployment. |
+| github actions | 2      | The current site is managed by using Github Actions to automate deployment. |
 | serverless     | 2      | I have utilized it to deploy a lambdalithic API server implemented with NestJS. |
 
 ## 3D/CAD
@@ -132,6 +132,7 @@ Lately, I've started thinking that tools can be changed or learned anew at any t
 | SketchUp                  | 1      | I have briefly used it while taking architecture major courses. |
 | SolidWorks                | 1      | I have briefly used it while taking mechanical engineering major courses. |
 | QGIS                      | 2      | In the first semester of 2017, I first used QGIS to utilize geographic information provided by the public data portal for a design project. In the second semester, I used QGIS integrated with Python to analyze pedestrian data in Undergraduate Independent Study course. After that, I conducted a workshop over several weeks to explain how to use QGIS to undergraduate and graduate students in the Department of Architecture & Architectural Engineering. But it's been a long time since I last used it so I've almost forgotten it now. |
+| NVIDIA Omniverse          | 1      | I have briefly tried to create an Extension. |
 
 ## 2D
 
