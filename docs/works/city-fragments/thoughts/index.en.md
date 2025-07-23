@@ -6,6 +6,7 @@ title: "Thoughts"
 
 <div class="grid cards" markdown>
 
+- [__Reusable Processes and Architecture - 1 (2025. 07. 23.)__](./2025/0723.md)
 - [__Virtual Space and Floor Plan - 1 (2025. 03. 28.)__](./2025/0328.md)
 - [__Virtual Space and Ground (2025. 03. 27.)__](./2025/0327.md)
 - [__Game and Bug: Going Through the Walls (2025. 02. 15.)__](./2025/0215.md)
